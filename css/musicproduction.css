@@ -4,7 +4,7 @@ body{
 	margin: 0;
 }
 .banner-home{
-	background-image: url("../assets/images/Dope BEATS.png");
+	background-image: url("../../assets/images/Dope BEATS.png");
 	height: 300px;
 	background-size: cover;
 	background-position: center;
@@ -45,7 +45,7 @@ nav ul{
 .article-one-img{
 	width: 75%;
 	height: 900px;
-	background-image: url("../assets/images/main logo.PNG");
+	background-image: url("../../assets/images/main logo.PNG");
 	background-position: center;
 	background-size: cover;
 }
