@@ -2,6 +2,7 @@
 
 body{
 	margin: 0;
+	background-color: #0E7687
 }
 .banner-home{
 	background-image: url("../../assets/images/Dope BEATS.png");
@@ -13,21 +14,19 @@ body{
 .banner-home h1{
 	font-family: 'Righteous', cursive;
 	text-align: center;
-	font-size: 3em;
+	font-size: 5em;
 	margin-top: 0;
 	color: aliceblue;
-}
-.image-one h2{
-	font-family: 'Righteous', cursive;
 }
 nav ul li a{
 	text-decoration: none;
 	color: aqua;
-	background-color: azure;
+	background-color: #00B5D4;
 	display: block;
 	text-align: center;
 	padding: 10px 0 10px 0;
 	margin-bottom: 5px;
+	font-size: 2em
 }
 nav ul li a:hover{
 	background-color: aliceblue;
