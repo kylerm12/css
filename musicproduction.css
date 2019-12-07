@@ -5,13 +5,13 @@ body{
 	background-color: #0E7687
 }
 .banner-home{
-	background-image: url("../../assets/images/Dope BEATS.png");
+	background-image:url("assets/images/Dope BEATS.png");
 	height: 300px;
 	background-size: cover;
 	background-position: center;
-	padding-top: 20px;
+	padding-top: 5px;
 }
-.banner-home h1{
+h1{
 	font-family: 'Righteous', cursive;
 	text-align: center;
 	font-size: 5em;
@@ -34,4 +34,26 @@ nav ul li a:hover{
 nav ul{
 	list-style: none;
 	padding-left: 0;
+}
+.banner-contact{
+	background-image:url("assets/images/person-holding-midnight-black-samsung-galaxy-s8-turn-on-near-1092671.jpg");
+	height: 300px;
+	background-size: cover;
+	background-position: center;
+	padding-top: 20px;
+}
+.banner-about{
+	background-image:url("assets/images/IMG_0716.JPG");
+	height: 300px;
+	background-size: cover;
+	background-position: center;
+	padding-top: 5px;
+	
+}
+.banner-blog{
+	background-image:url("assets/images/coffee-notebook-writing-computer-34601.jpg");
+	height: 300px;
+	background-size: cover;
+	background-position: center;
+	padding-top: 5px;
 }
