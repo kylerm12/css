@@ -50,6 +50,11 @@ nav ul{
 	padding-top: 20px;
 	
 }
+.abouttext{
+	font-size: 20px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	color: aliceblue;
+}
 .banner-blog{
 	background-image:url("assets/images/coffee-notebook-writing-computer-34601.jpg");
 	height: 300px;
@@ -66,6 +71,9 @@ nav ul{
 }
 .section-videos{
 	align-content: center;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 40px;
+	color: aliceblue;
 }
 #images{
 	align-content: center;
